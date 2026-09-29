@@ -31,14 +31,14 @@ def pridobi_podrobnosti(povezava):
 
     velikost = ''
     for i in range(len(besede)):
-        if besede[i-1] == 'Size':
+        if besede[i] == 'Small' or besede[i] == 'Medium' or besede[i] == 'Large':
             velikost = besede[i]
 
     živi_z_otroki = ''
     for i in range(len(besede)):
         if besede[i-1] == 'Adults':
             živi_z_otroki = 'ne'
-        if besede[i-1] == 'Children':
+        if besede[i-1] == 'children':
             živi_z_otroki = 'da'
     return {'velikost': velikost,
             'živi z otroki': živi_z_otroki
