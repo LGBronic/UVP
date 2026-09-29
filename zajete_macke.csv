@@ -1,29 +1,38 @@
-ime,na voljo,lokacija,starost,spol,pasma
-Donald & Tigger,available,Cornwall,47,Male,Domestic Shorthair
-Tigger & Donald,available,Cornwall,90,Male,Domestic Shorthair
-Nyx,available,Bedfordshire,27,Female,Domestic Shorthair
-Felix,available,Bedfordshire,63,Male,Domestic Shorthair
-Jem (Lucy),available,Berkshire,5,Female,Domestic Shorthair
-Lucy (Jem),available,Berkshire,5,Female,Domestic Shorthair
-Gloria,available,Hertfordshire,144,Female,Domestic Shorthair
-Nola,available,Hertfordshire,145,Female,Ragdoll
-Domino,available,Hertfordshire,36,Male,Domestic Shorthair
-Toast,available,Cornwall,41,Male,Domestic Medium Hair
-Rufus,available,Bedfordshire,38,Male,Domestic Shorthair
-Nelly (with Rusty),available,Bedfordshire,137,Female,Domestic Shorthair
-Rusty (with Nelly),available,Bedfordshire,161,Male,Domestic Shorthair
-Hope,available,Cornwall,14,Female,Domestic Shorthair
-Sorbet (& Scoop),available,Hertfordshire,5,,
-Scoop (& Sorbet),available,Hertfordshire,37,Female,Domestic Shorthair
-Dakota (& Alabama),available,Hertfordshire,7,Female,Domestic Shorthair
-Alabama (& Dakota),available,Hertfordshire,7,Female,Domestic Shorthair
-Ozzie,reserved,Hertfordshire,0,,
-Leaf,reserved,Bedfordshire,13,Male,Domestic Shorthair
-Tango,reserved,Berkshire,91,Male,Domestic Shorthair
-Shadow,reserved,Berkshire,29,Male,Domestic Shorthair
-Bear,reserved,Berkshire,12,Male,Domestic Long Haired
-Coco,reserved,Cornwall,78,Female,Domestic Shorthair
-Kylo Ren,reserved,Bedfordshire,3,Male,Domestic Shorthair
-Mildred,reserved,Cornwall,102,Female,Domestic Shorthair
-Bobbie,reserved,Hertfordshire,73,Female,Domestic Shorthair
-Hobbes,reserved,Hertfordshire,80,Male,Domestic Shorthair
+ime,na voljo,lokacija,starost,spol,pasma,posvojitev v paru,velikost,živi z odraslimi
+Socks,available,Cornwall,52,Male,Domestic Shorthair,ne,Size,
+Teddy,available,Cornwall,184,Male,Russian White,ne,Size,da
+Ryobi,available,Berkshire,2,Female,,ne,Size,
+Stanley,available,Berkshire,2,Male,,ne,Size,
+Ivy,available,Hertfordshire,50,Female,Domestic Shorthair,ne,Size,
+Pan,available,Hertfordshire,48,,,ne,Size,
+Cedar,available,Hertfordshire,2,Female,Domestic Shorthair,da,Size,
+Oak,available,Hertfordshire,2,Female,Domestic Shorthair,da,Size,
+Sycamore,available,Hertfordshire,2,Male,Domestic Shorthair,da,Size,
+Acorn,available,Hertfordshire,2,Female,Domestic Shorthair,da,Size,
+Donald,available,Cornwall,47,Male,Domestic Shorthair,da,Size,
+Tigger,available,Cornwall,90,Male,Domestic Shorthair,da,Size,
+Nyx,available,Bedfordshire,27,Female,Domestic Shorthair,ne,Size,
+Gloria,available,Hertfordshire,144,Female,Domestic Shorthair,ne,Size,
+Nola,available,Hertfordshire,145,Female,Ragdoll,ne,Size,
+Rufus,available,Bedfordshire,38,Male,Domestic Shorthair,ne,Size,da
+Nelly,available,Bedfordshire,138,Female,Domestic Shorthair,da,Size,
+Rusty,available,Bedfordshire,162,Male,Domestic Shorthair,da,Size,
+Hope,available,Cornwall,14,Female,Domestic Shorthair,ne,Size,
+Sorbet,available,Hertfordshire,5,,,da,Size,
+Scoop,available,Hertfordshire,37,Female,Domestic Shorthair,da,Size,
+Dakota,available,Hertfordshire,7,Female,Domestic Shorthair,da,Size,
+Alabama,available,Hertfordshire,7,Female,Domestic Shorthair,da,Size,
+Bosch,reserved,Berkshire,2,Female,,ne,Size,
+Makita,reserved,Berkshire,12,Female,Domestic Shorthair,ne,Size,
+May,reserved,Berkshire,13,Female,Domestic Shorthair,ne,Size,
+Felix,reserved,Bedfordshire,63,Male,Domestic Shorthair,ne,Size,
+Leaf,reserved,Bedfordshire,13,Male,Domestic Shorthair,ne,Size,
+Tango,reserved,Berkshire,91,Male,Domestic Shorthair,ne,Size,
+Jem,reserved,Berkshire,5,Female,Domestic Shorthair,da,Size,
+Lucy,reserved,Berkshire,5,Female,Domestic Shorthair,da,Size,
+Coco,reserved,Cornwall,78,Female,Domestic Shorthair,ne,Size,
+Toast,reserved,Cornwall,41,Male,Domestic Medium Hair,ne,Size,
+Kylo Ren,reserved,Bedfordshire,3,Male,Domestic Shorthair,ne,Size,
+Mildred,reserved,Cornwall,102,Female,Domestic Shorthair,ne,Size,
+Bobbie,reserved,Hertfordshire,73,Female,Domestic Shorthair,ne,Size,
+Hobbes,reserved,Hertfordshire,80,Male,Domestic Shorthair,ne,Size,
