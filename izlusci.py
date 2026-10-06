@@ -20,7 +20,7 @@ def pridobi_podrobnosti(povezava):
     odgovor = requests.get(povezava, headers= headers)
     if odgovor.status_code != 200:
         return {'velikost': '',
-                'živi z odraslimi': ''
+                'živi z otroki': ''
                 }
     
     vsebina = odgovor.text
@@ -64,7 +64,6 @@ def analiza_macke(rezultat):
         #print(podatki)
         #želimo ločiti besede v podatkih (torej loči z znaki, ki niso besede)
     besede = re.findall(r'\w+', podatki)
-        #print(besede)
 
     leta = 0
     mesec = 0
